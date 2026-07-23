@@ -1,4 +1,0 @@
-project_id = "parley"
-
-[functions.auth-proxy]
-verify_jwt = false
